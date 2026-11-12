@@ -54,4 +54,14 @@ _Add your project screenshots here._
 - Employee database integration.
 - Monthly salary reports.
 - Automatic payslip generation.
--
+- Employee salary history.
+
+👩‍💻 Author
+
+Mehakdeep Kaur
+
+⭐ Support
+
+If you like this project, don't forget to give it a star ⭐ on GitHub!
+
+#Python #EmployeeManagement #SalaryCalculator #Programming #GitHub
